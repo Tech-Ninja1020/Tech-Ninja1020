@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=220&section=header&text=Senior%20Full%20Stack%20%26%20Mobile%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Node.js%20%E2%80%A2%20Web3&descAlignY=56&descSize=18" alt="Senior Full Stack and Mobile Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:F7931E&height=220&section=header&text=Senior%20Full%20Stack%20%E2%80%A2%20Mobile%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Node.js%20%E2%80%A2%20Web3&descAlignY=56&descSize=18" alt="Senior Full Stack and Mobile Engineer" width="100%" />
 
   <a href="https://github.com/Tech-Ninja1020">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=680&lines=Senior+Full+Stack+Engineer;Senior+Mobile+Engineer;React+%E2%80%A2+React+Native+%E2%80%A2+Node.js+%E2%80%A2+Solana;AI-powered+apps%2C+from+idea+to+store" alt="Senior Full Stack Engineer, Senior Mobile Engineer" />
