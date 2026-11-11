@@ -139,8 +139,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tech-Ninja1020&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B4D8&icon_color=00D9FF&text_color=888888" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-Ninja1020&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=888888" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/0-profile-details.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/0-profile-details.svg" alt="Profile details and contributions" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/3-stats.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/3-stats.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/2-most-commit-language.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/2-most-commit-language.svg" alt="Top languages by commit" />
+  </picture>
 </div>
 
 ## 🔥 Streak Stats
