@@ -210,26 +210,6 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/0-profile-details.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/0-profile-details.svg" alt="Profile details and contributions" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/3-stats.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/3-stats.svg" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/dark/2-most-commit-language.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/Tech-Ninja1020/Tech-Ninja1020/output/cards/light/2-most-commit-language.svg" alt="Top languages by commit" />
-  </picture>
-</div>
-
 ## 🔥 Streak Stats
 
 <div align="center">
